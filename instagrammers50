@@ -1,0 +1,402 @@
+[
+ {
+   "Rank": 1,
+   "Username": "@instagram",
+   "Owner": "Instagram",
+   "Followers": 515,
+   "Activity": "Social media platform",
+   "Country": "United States"
+ },
+ {
+   "Rank": 2,
+   "Username": "@cristiano",
+   "Owner": "Cristiano Ronaldo",
+   "Followers": 450,
+   "Activity": "Footballer",
+   "Country": "Portugal"
+ },
+ {
+   "Rank": 3,
+   "Username": "@kyliejenner",
+   "Owner": "Kylie Jenner",
+   "Followers": 344,
+   "Activity": "Television personality, model and businesswoman",
+   "Country": "United States"
+ },
+ {
+   "Rank": 4,
+   "Username": "@leomessi",
+   "Owner": "Lionel Messi",
+   "Followers": 333,
+   "Activity": "Footballer",
+   "Country": "Argentina"
+ },
+ {
+   "Rank": 5,
+   "Username": "@selenagomez",
+   "Owner": "Selena Gomez",
+   "Followers": 324,
+   "Activity": "Musician, actress, producer and businesswoman",
+   "Country": "United States"
+ },
+ {
+   "Rank": 6,
+   "Username": "@therock",
+   "Owner": "Dwayne Johnson",
+   "Followers": 320,
+   "Activity": "Actor and professional wrestler",
+   "Country": "United States"
+ },
+ {
+   "Rank": 7,
+   "Username": "@kimkardashian",
+   "Owner": "Kim Kardashian",
+   "Followers": 316,
+   "Activity": "Television personality, model and businesswoman",
+   "Country": "United States"
+ },
+ {
+   "Rank": 8,
+   "Username": "@arianagrande",
+   "Owner": "Ariana Grande",
+   "Followers": 314,
+   "Activity": "Musician and actress",
+   "Country": "United States"
+ },
+ {
+   "Rank": 9,
+   "Username": "@beyonce",
+   "Owner": "Beyonc",
+   "Followers": 261,
+   "Activity": "Musician, actress and businesswoman",
+   "Country": "United States"
+ },
+ {
+   "Rank": 10,
+   "Username": "@khloekardashian",
+   "Owner": "Khlo Kardashian",
+   "Followers": 249,
+   "Activity": "Television personality and model",
+   "Country": "United States"
+ },
+ {
+   "Rank": 11,
+   "Username": "@kendalljenner",
+   "Owner": "Kendall Jenner",
+   "Followers": 240,
+   "Activity": "Model and television personality",
+   "Country": "United States"
+ },
+ {
+   "Rank": 12,
+   "Username": "@justinbieber",
+   "Owner": "Justin Bieber",
+   "Followers": 239,
+   "Activity": "Musician",
+   "Country": "Canada"
+ },
+ {
+   "Rank": 13,
+   "Username": "@natgeo",
+   "Owner": "National Geographic",
+   "Followers": 225,
+   "Activity": "Magazine",
+   "Country": "United States"
+ },
+ {
+   "Rank": 14,
+   "Username": "@nike",
+   "Owner": "Nike",
+   "Followers": 221,
+   "Activity": "Sportswear multinational",
+   "Country": "United States"
+ },
+ {
+   "Rank": 15,
+   "Username": "@taylorswift",
+   "Owner": "Taylor Swift",
+   "Followers": 213,
+   "Activity": "Musician",
+   "Country": "United States"
+ },
+ {
+   "Rank": 16,
+   "Username": "@jlo",
+   "Owner": "Jennifer Lopez",
+   "Followers": 211,
+   "Activity": "Musician and actress",
+   "Country": "United States"
+ },
+ {
+   "Rank": 17,
+   "Username": "@virat.kohli",
+   "Owner": "Virat Kohli",
+   "Followers": 200,
+   "Activity": "Cricketer",
+   "Country": "India"
+ },
+ {
+   "Rank": 18,
+   "Username": "@nickiminaj",
+   "Owner": "Nicki Minaj",
+   "Followers": 192,
+   "Activity": "Musician",
+   "Country": "Trinidad and Tobago"
+ },
+ {
+   "Rank": 19,
+   "Username": "@kourtneykardash",
+   "Owner": "Kourtney Kardashian",
+   "Followers": 182,
+   "Activity": "Television personality and model",
+   "Country": "United States"
+ },
+ {
+   "Rank": 20,
+   "Username": "@neymarjr",
+   "Owner": "Neymar",
+   "Followers": 175,
+   "Activity": "Footballer",
+   "Country": "Brazil"
+ },
+ {
+   "Rank": 21,
+   "Username": "@mileycyrus",
+   "Owner": "Miley Cyrus",
+   "Followers": 173,
+   "Activity": "Musician and actress",
+   "Country": "United States"
+ },
+ {
+   "Rank": 22,
+   "Username": "@katyperry",
+   "Owner": "Katy Perry",
+   "Followers": 163,
+   "Activity": "Musician",
+   "Country": "United States"
+ },
+ {
+   "Rank": 23,
+   "Username": "@kevinhart4real",
+   "Owner": "Kevin Hart",
+   "Followers": 143,
+   "Activity": "Comedian and actor",
+   "Country": "United States"
+ },
+ {
+   "Rank": 24,
+   "Username": "@zendaya",
+   "Owner": "Zendaya",
+   "Followers": 143,
+   "Activity": "Actress",
+   "Country": "United States"
+ },
+ {
+   "Rank": 25,
+   "Username": "@ddlovato",
+   "Owner": "Demi Lovato",
+   "Followers": 133,
+   "Activity": "Musician and actor",
+   "Country": "United States"
+ },
+ {
+   "Rank": 26,
+   "Username": "@iamcardib",
+   "Owner": "Cardi B",
+   "Followers": 133,
+   "Activity": "Musician and actor",
+   "Country": "United States"
+ },
+ {
+   "Rank": 27,
+   "Username": "@badgalriri",
+   "Owner": "Rihanna",
+   "Followers": 130,
+   "Activity": "Musician and businesswoman",
+   "Country": "Barbados"
+ },
+ {
+   "Rank": 28,
+   "Username": "@kingjames",
+   "Owner": "LeBron James",
+   "Followers": 123,
+   "Activity": "Basketball player",
+   "Country": "United States"
+ },
+ {
+   "Rank": 29,
+   "Username": "@theellenshow",
+   "Owner": "Ellen DeGeneres",
+   "Followers": 121,
+   "Activity": "Comedian and television personality",
+   "Country": "United States"
+ },
+ {
+   "Rank": 30,
+   "Username": "@realmadrid",
+   "Owner": "Real Madrid CF",
+   "Followers": 119,
+   "Activity": "Football club",
+   "Country": "Spain"
+ },
+ {
+   "Rank": 31,
+   "Username": "@champagnepapi",
+   "Owner": "Drake",
+   "Followers": 112,
+   "Activity": "Musician",
+   "Country": "Canada"
+ },
+ {
+   "Rank": 32,
+   "Username": "@chrisbrownofficial",
+   "Owner": "Chris Brown",
+   "Followers": 111,
+   "Activity": "Musician",
+   "Country": "United States"
+ },
+ {
+   "Rank": 33,
+   "Username": "@fcbarcelona",
+   "Owner": "FC Barcelona",
+   "Followers": 109,
+   "Activity": "Football club",
+   "Country": "Spain"
+ },
+ {
+   "Rank": 34,
+   "Username": "@billieeilish",
+   "Owner": "Billie Eilish",
+   "Followers": 103,
+   "Activity": "Musician",
+   "Country": "United States"
+ },
+ {
+   "Rank": 35,
+   "Username": "@championsleague",
+   "Owner": "UEFA Champions League",
+   "Followers": 94.5,
+   "Activity": "Club football competition",
+   "Country": "Europe"
+ },
+ {
+   "Rank": 36,
+   "Username": "@dualipa",
+   "Owner": "Dua Lipa",
+   "Followers": 84,
+   "Activity": "Musician",
+   "Country": "United Kingdom"
+ },
+ {
+   "Rank": 37,
+   "Username": "@gal_gadot",
+   "Owner": "Gal Gadot",
+   "Followers": 81.7,
+   "Activity": "Actress",
+   "Country": "Israel"
+ },
+ {
+   "Rank": 38,
+   "Username": "@vindiesel",
+   "Owner": "Vin Diesel",
+   "Followers": 80.7,
+   "Activity": "Actor",
+   "Country": "United States"
+ },
+ {
+   "Rank": 39,
+   "Username": "@priyankachopra",
+   "Owner": "Priyanka Chopra",
+   "Followers": 79,
+   "Activity": "Actress and musician",
+   "Country": "India"
+ },
+ {
+   "Rank": 40,
+   "Username": "@lalalalisa_m",
+   "Owner": "Lisa",
+   "Followers": 78.3,
+   "Activity": "Musician and model",
+   "Country": "Thailand"
+ },
+ {
+   "Rank": 41,
+   "Username": "@khaby00",
+   "Owner": "Khaby Lame",
+   "Followers": 78,
+   "Activity": "Social media personality",
+   "Country": "Italy"
+ },
+ {
+   "Rank": 42,
+   "Username": "@nasa",
+   "Owner": "NASA",
+   "Followers": 77.8,
+   "Activity": "Space agency",
+   "Country": "United States"
+ },
+ {
+   "Rank": 43,
+   "Username": "@gigihadid",
+   "Owner": "Gigi Hadid",
+   "Followers": 74.6,
+   "Activity": "Model",
+   "Country": "�United States"
+ },
+ {
+   "Rank": 44,
+   "Username": "@shakira",
+   "Owner": "Shakira",
+   "Followers": 74.1,
+   "Activity": "Musician",
+   "Country": "Colombia"
+ },
+ {
+   "Rank": 45,
+   "Username": "@snoopdogg",
+   "Owner": "Snoop Dogg",
+   "Followers": 73.9,
+   "Activity": "Musician",
+   "Country": "United States"
+ },
+ {
+   "Rank": 46,
+   "Username": "@davidbeckham",
+   "Owner": "David Beckham",
+   "Followers": 73.8,
+   "Activity": "Social media personality",
+   "Country": "United Kingdom"
+ },
+ {
+   "Rank": 47,
+   "Username": "@victoriassecret",
+   "Owner": "Victoria's Secret",
+   "Followers": 72.8,
+   "Activity": "Lingerie Company",
+   "Country": "United States"
+ },
+ {
+   "Rank": 48,
+   "Username": "@shraddhakapoor",
+   "Owner": "Shraddha Kapoor",
+   "Followers": 72.8,
+   "Activity": "Actress",
+   "Country": "India"
+ },
+ {
+   "Rank": 49,
+   "Username": "@k.mbappe",
+   "Owner": "Kylian Mbappé",
+   "Followers": 71.4,
+   "Activity": "Footballer",
+   "Country": "France"
+ },
+ {
+   "Rank": 50,
+   "Username": "@nehakakkar",
+   "Owner": "Neha Kakkar",
+   "Followers": 70.1,
+   "Activity": "Musician",
+   "Country": "India"
+ }
+]
